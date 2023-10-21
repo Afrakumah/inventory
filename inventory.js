@@ -12,7 +12,7 @@ app.use(morgan('dev'))
 
 // const mongoUrl = 'mongodb://127.0.0.1:27017'
 
-const mongoUrl = 'mongodb+srv://angel:angel@cluster0.grxx2nl.mongodb.net/inventory'
+// const mongoUrl = 'mongodb+srv://angel:angel@cluster0.grxx2nl.mongodb.net/inventory'
 const baseName = 'inventory';
 
 let dbase;
